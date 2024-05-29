@@ -1,8 +1,7 @@
 ### Hi, I’m Fehmeen 👋🏽
 👩🏽‍💻 A Georgia Tech **Engineering** and **Finance** graduate passionate about data 📊
 
-⚡ Looking to make advancements in the _**Technology**_, _**Finance**_ and  _**Energy**_ industries especially in the realm of Product/Growth Analytics, Market Research, Financial Analytics,
-Infrastructure and IoT through my use of data analytics and strategy.
+⚡ Looking to make a difference in the realm of Strategy, Product/Growth Analytics, Market Research, Financial Markets, Infrastructure or IoT through my use of analytics.
 
 🌱 Currently working on a passion project related to Impact Analysis of 2000s Events on Financial Markets using Python.
 
