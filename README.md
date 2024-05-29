@@ -4,7 +4,7 @@
 ⚡ Looking to make advancements in the _**Technology**_, _**Finance**_ and  _**Energy**_ industries especially in the realm of Product/Growth Analytics, Market Research, Financial Analytics,
 Infrastructure and IoT through my use of data analytics and strategy.
 
-🌱 Currently working on passion project related to Impact Analysis of 2000s Events on Financial Market using Python.
+🌱 Currently working on a passion project related to Impact Analysis of 2000s Events on Financial Market using Python.
 
 👀 My past experiences include:
    - Supply chain analytics and business intelligence for a multi-channel retailer, helping reduce product damage.
