@@ -1,5 +1,5 @@
 ### Hi, I’m Fehmeen 👋🏽
-👩🏽‍💻 An **Engineering** and **Finance** graduate passionate about data 📊
+👩🏽‍💻 A Georgia Tech **Engineering** and **Finance** graduate passionate about data 📊
 
 ⚡ Looking to make advancements in the _**Technology**_, _**Finance**_ and  _**Energy**_ industries especially in the realm of Product/Growth Analytics, Market Research, Financial Analytics,
 Infrastructure and IoT through my use of data analytics and strategy.
@@ -15,7 +15,7 @@ Infrastructure and IoT through my use of data analytics and strategy.
 
 🧮 Skills and Learning: Python, SQL, R, Tableau, Salesforce, MS Excel, Power BI
 
-💞️ Passionate about traveling the world, performing arts, sustainability, museums and an avid watcher of Formula 1 races and cricket tournaments
+💞️ Passionate about all things data, traveling the world, performing arts, sustainability, museums and an avid watcher of Formula 1 races and cricket tournaments
 
 ###### 📫 You can reach me at fehmeen.t99@gmail.com or [LinkedIn](https://www.linkedin.com/in/fehmeentariq/) for opportunities, projects or a friendly ear to chat to
 
