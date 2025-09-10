@@ -1,5 +1,5 @@
 ### Hi, I’m Fehmeen 👋🏽 I'm passionate about all things data 📊
-👩🏽‍💻 Currently, pursuing a Masters in **Statistics** with a **Risk and Financial Modelling track** at **Columbia University**
+👩🏽‍💻 Currently pursuing a Masters in **Statistics** with a **Risk and Financial Modelling track** at **Columbia University**
 
 👩🏽‍💻 I did my Bachelors from **Georgia Tech** in **Industrial Engineering** with a minor in **Finance** graduate 
 
