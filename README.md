@@ -1,10 +1,11 @@
 ### Hi, I’m Fehmeen 👋🏽 I'm passionate about all things data 📊
-👩🏽‍💻 Currently, pursuing a **Masters in Statistics with a Risk and Financial Modelling track** at **Columbia University**
-👩🏽‍💻 I did my BS from Georgia Tech in **Industrial Engineering** with a minor in **Finance** graduate 
+👩🏽‍💻 Currently, pursuing a Masters in **Statistics** with a **Risk and Financial Modelling track** at **Columbia University**
 
-⚡ Looking to make a difference in the realm of Product/Growth Analytics, Market Research, Financial Markets, Infrastructure or IoT through my use of analytics.
+👩🏽‍💻 I did my Bachelors from **Georgia Tech** in **Industrial Engineering** with a minor in **Finance** graduate 
 
-🌱 Currently working on a passion project related to Impact Analysis of 2000s Events on Financial Markets using Python.
+⚡ Looking to make a difference in the realm of Financial Markets, Product/Growth Analytics, Market Research, Infrastructure or IoT through my use of analytics.
+
+🌱 Currently working on a passion project using Python.
 
 👀 My past experiences include:
    - Supply chain analytics and business intelligence for a multi-channel retailer, helping reduce product damage.
@@ -13,7 +14,7 @@
    - Data consulting for a lawyers volunteer organization, helping draw insights.
    - Data analysis and equity trading for a prop tech startup, assisting in acquisitions
 
-🧮 Skills and Learning: Python, SQL, R, Tableau, Salesforce, MS Excel, Power BI
+🧮 Skills and Learning: Python, Jupyter Notebook, SQL, R, Tableau, Salesforce, MS Excel, Power BI
 
 💞️ Passionate about all things data, traveling the world, performing arts, sustainability, museums and an avid watcher of Formula 1 races and cricket tournaments
 
