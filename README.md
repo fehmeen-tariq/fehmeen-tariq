@@ -1,5 +1,6 @@
-### Hi, I’m Fehmeen 👋🏽
-👩🏽‍💻 A Georgia Tech **Engineering** and **Finance** graduate passionate about data 📊
+### Hi, I’m Fehmeen 👋🏽 I'm passionate about all things data 📊
+👩🏽‍💻 Currently, pursuing a **Masters in Statistics with a Risk and Financial Modelling track** at **Columbia University**
+👩🏽‍💻 I did my BS from Georgia Tech in **Industrial Engineering** with a minor in **Finance** graduate 
 
 ⚡ Looking to make a difference in the realm of Product/Growth Analytics, Market Research, Financial Markets, Infrastructure or IoT through my use of analytics.
 
