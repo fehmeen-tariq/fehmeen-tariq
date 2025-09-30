@@ -1,7 +1,7 @@
 ### Hi, I’m Fehmeen 👋🏽 I'm passionate about all things data 📊
-👩🏽‍💻 Currently pursuing a Masters in **Statistics** with a **Risk and Financial Modelling track** at **Columbia University**
+👩🏽‍💻 Currently pursuing a Masters in **Statistics** with a **Risk and Finance track** at **Columbia University** graduating Dec 2026.
 
-👩🏽‍💻 I did my Bachelors from **Georgia Tech** in **Industrial Engineering** with a minor in **Finance** graduate 
+👩🏽‍💻 I did my Bachelors from **Georgia Tech** in **Industrial Engineering** with a minor in **Finance** graduate. 
 
 ⚡ Looking to make a difference in the realm of Financial Markets, Product/Growth Analytics, Market Research, Infrastructure or IoT through my use of analytics.
 
